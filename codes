@@ -1,0 +1,9 @@
+Create a virtual envirement: conda create -n ml python=3.9
+
+Activate:  conda activate ml
+
+Instaling Pakages: pip install streamlit   
+				   pip install numpy pandas
+				   conda install matplotlib scikit-learn
+				   ipython kernel install --user --name=ml
+				   jupyter notebook
