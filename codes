@@ -7,3 +7,6 @@ Instaling Pakages: pip install streamlit
 				   conda install matplotlib scikit-learn
 				   ipython kernel install --user --name=ml
 				   jupyter notebook
+
+Stack Overflow Survey Data:
+https://insights.stackoverflow.com/su...
